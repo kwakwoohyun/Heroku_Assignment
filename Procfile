@@ -1,1 +1,1 @@
-web: gunicron bootstrapboard.wsgi --log-file -
+web: gunicron user.wsgi --log-file -
